@@ -18,9 +18,9 @@ Here is some steps for me:
 
    And if the xposed module hook many class, and some work, some not. Then just add a condition like this:
 
-       if (Build.VERSION.SDK_INT > Build.VERSION_CODES.GINGERBREAD_MR1) {
-           // here is original codes ....
-       }
+        if (Build.VERSION.SDK_INT > Build.VERSION_CODES.GINGERBREAD_MR1) {
+            // here is original codes ....
+        }
 
 2. Check other class. Most of them, the hook will work, however, the settings for the module may use newer api.
 
