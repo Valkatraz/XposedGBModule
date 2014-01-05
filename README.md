@@ -36,5 +36,4 @@ Here is some steps for me:
    - [XposedAppSettings](http://github.com/liudongmiao/XposedAppSettings): Its difficult.
    - [xperia_phone_vibrator](https://github.com/liudongmiao/xperia_phone_vibrator/compare/itandy:master...master): It's easy.
 
-3. Please don't forget to test on gingerbread device.
-
+*NOTICE*:  `NEVER` forget to test on gingerbread device.
