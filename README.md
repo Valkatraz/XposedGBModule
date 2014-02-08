@@ -38,8 +38,8 @@ Here is some steps for me:
 
    And I think you may refer to the xposed modules back-ported by me:
 
-   - [XPrivacy](http://github.com/liudongmiao/XPrivacy): Its difficult.
-   - [XposedAppSettings](http://github.com/liudongmiao/XposedAppSettings): Its difficult.
+   - [XPrivacy](http://github.com/liudongmiao/XPrivacy/compare/upstream...master#files_bucket): Its difficult.
+   - [XposedAppSettings](http://github.com/liudongmiao/XposedAppSettings/compare/upstream...master#files_bucket): Its difficult.
    - [xperia_phone_vibrator](https://github.com/liudongmiao/xperia_phone_vibrator/compare/itandy:master...master): It's easy.
 
 *NOTICE*:  `NEVER` forget to test on gingerbread device.
