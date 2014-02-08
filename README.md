@@ -34,7 +34,7 @@ Here is some steps for me:
 
    - Check `NotificationBuilder`. GingerBread doesn't support empty Intent. So if there is no intent, just add one.
 
-        NotificationBuilder.setContentIntent(PendingIntent.getActivity(context, 0, new Intent(), 0));
+            NotificationBuilder.setContentIntent(PendingIntent.getActivity(context, 0, new Intent(), 0));
 
    And I think you may refer to the xposed modules back-ported by me:
 
